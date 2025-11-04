@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_pages/page02_sub/sub0201.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "sub0201"
             }
           }
         ]
@@ -170,5 +170,10 @@
     }
   },
   "active": "28c0b9fd689b242b",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "_pages/page02_sub/sub0202.md",
+    "_pages/page02_sub/sub0201.md",
+    "_pages/page01.md",
+    "index.md"
+  ]
 }
